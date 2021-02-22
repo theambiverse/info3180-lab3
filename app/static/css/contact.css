@@ -1,0 +1,37 @@
+hr {
+    border-top: 2px solid rgba(39, 34, 34, 0.521) ;
+  }
+
+h6{
+    font-size: 12px;
+    
+}
+
+.r{
+    color:rgb(180, 0, 0);
+}
+
+h4{
+    font-size: 15px;
+    color:rgb(184, 4, 4);   
+}
+.formItems{
+    font-size: 15px;
+    /*display:inline-block ;
+    
+    padding-top: 20px;*/
+}
+
+label{
+    justify-self: left;
+}
+.fGroups{
+    padding-bottom: 30px;
+}
+
+.bttn{
+    width: 70px;
+    height: 23px;
+    background-color: rgb(30, 101, 255);
+    color: white;
+}
